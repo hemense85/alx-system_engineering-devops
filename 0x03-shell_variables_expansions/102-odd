@@ -1,2 +1,2 @@
 #!bin/bash
-past -d**-- | cat -d** -f1
+past-d * * -- | cat - * * -f1
